@@ -1,0 +1,20 @@
+{
+    "name": "phpcasts/yaf-skel",
+    "description": "yaf-skel",
+    "keywords": ["yaf-skel","yaf","skeleton"],
+    "type": "project",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qloog",
+            "email": "quanlongwang@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "5.0.*",
+        "illuminate/events": "5.0.*",
+        "symfony/debug": "2.6.*",
+        "symfony/var-dumper": "2.6.*"
+    }
+}
